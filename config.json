@@ -1,0 +1,10 @@
+[
+  {
+    "regexp": "GO:\\d{7}",
+    "html": "https://www.ebi.ac.uk/QuickGO/term/$"
+  },
+  {
+    "regexp": "IPR\\d{6}",
+    "html": "https://www.ebi.ac.uk/interpro/entry/InterPro/$"
+  }
+]
